@@ -2,7 +2,7 @@
 
 Here are a few of my favorite things 🎶
 
-Stuff I made 👨‍💻:
+Stuff I make 👨‍💻:
 - multiplayer clone of Set card game [Play](https://set.jakecoffman.com) - [Source](https://github.com/jakecoffman/matchville)
 - clone of Photosynthesis board game (multiplayer or vs AI) [Play](https://trees.jakecoffman.com) - [Source](https://github.com/jakecoffman/trees)
 - multiplayer clone of Resistance social game [Play](https://resistance.jakecoffman.com) - [Source](https://github.com/jakecoffman/spyville)
