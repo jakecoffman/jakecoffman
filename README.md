@@ -12,6 +12,8 @@ Here's a little bit about me!
   - Groovy on Grails
   - NodeJS
   - Go
+  - AngularJS
+  - VueJS
 - Now I work at GitHub on :dependabot: writing a lot of Go and Ruby, much of which is open source!
 
 ### Stuff I make 👨‍💻
