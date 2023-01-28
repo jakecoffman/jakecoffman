@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Here's a little bit about me!
+This is a social network, right? Here's a little bit about me!
 
 ### Professionally
 
