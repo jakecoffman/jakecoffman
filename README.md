@@ -4,7 +4,7 @@ This is a social network, right? Here's a little bit about me!
 
 ### Professionally
 
-- 16 years of software development
+- 17 years of software development
 - 6 years of C and C++, realtime applications
 - 9 years of web development in many languages and frameworks
   - Java with JSP
